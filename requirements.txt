@@ -1,0 +1,7 @@
+langchain_core
+langchain_community
+pypdf
+langchain
+wikipedia
+faiss-cpu
+sentence_transformer
